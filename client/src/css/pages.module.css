@@ -1,0 +1,7 @@
+.hover_group:hover {
+    border: 0.1rem solid #0093fb;
+}
+
+.hover_group:focus {
+    background-color: lightgray;
+}
